@@ -44,7 +44,6 @@ except Exception as e:
 ```
 
 ## Output:
-![imgai](https://github.com/user-attachments/assets/6308f4c5-56e3-4788-9b3d-bd572152d0f5)
-
+![PIC11](https://github.com/user-attachments/assets/c4268f85-8c67-49b4-90b2-3c3db2ade3a8)
 ## Result:
 Thus, the conversion of live speech to text is executed sucessfully.
